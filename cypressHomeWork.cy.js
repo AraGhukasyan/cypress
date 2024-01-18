@@ -1,7 +1,5 @@
 /// <reference types="cypress" />
 
-/// <reference types="cypress" />
-
 describe('Shopping Cart and Order Test', () => {
   it('should add a product to the cart and make an order', () => {
     // visit the website 
